@@ -1,0 +1,250 @@
+[
+    {
+      "title": "Banana",
+      "id": 1,
+      "description": "A banana is a curved, yellow fruit with a thick skin and soft sweet flesh.It grows in bunches on a banana tree. To go bananas is a slangy way of saying go crazy or act ridiculous, and if someone refers to the top banana, they mean the most important person in a particular group.",
+      "price": 4.7,
+      "priceUnit": "$",
+      "isHit": false,
+      "imageName": "Banana.png",
+      "nutrition": [
+        {
+          "title": "kcal",
+          "value": "325"
+        },
+        {
+          "title": "grams",
+          "value": "420"
+        },
+        {
+          "title": "fats",
+          "value": "19"
+        },
+        {
+          "title": "proteins",
+          "value": "21"
+        },
+        {
+          "title": "carbs",
+          "value": "51"
+        }
+      ]
+    },
+    {
+      "title": "Bread-Slices",
+      "id": 2,
+      "description": "Sliced bread is a loaf of bread that has been pre-sliced with a machine and packaged for convenience, as opposed to the consumer cutting it with a bread knife. It was first sold in 1928, advertised as the greatest forward step in the baking industry since bread was wrapped.",
+      "price": 5.0,
+      "priceUnit": "$",
+      "isHit": true,
+      "imageName": "Bread-Slices.png",
+      "nutrition": [
+        {
+          "title": "kcal",
+          "value": "400"
+        },
+        {
+          "title": "grams",
+          "value": "300"
+        },
+        {
+          "title": "fats",
+          "value": "15"
+        },
+        {
+          "title": "proteins",
+          "value": "20"
+        },
+        {
+          "title": "carbs",
+          "value": "40"
+        }
+      ]
+    },
+    {
+        "title": "Candies",
+        "id": 3,
+        "description": "Candy, also called sweets (British English) or lollies (Australian English, New Zealand English), is a confection that features sugar as a principal ingredient. The category, called sugar confectionery, encompasses any sweet confection, including chocolate, chewing gum, and sugar candy.",
+        "price": 3.0,
+        "priceUnit": "$",
+        "isHit": false,
+        "imageName": "Candies.png",
+        "nutrition": [
+          {
+            "title": "kcal",
+            "value": "500"
+          },
+          {
+            "title": "grams",
+            "value": "400"
+          },
+          {
+            "title": "fats",
+            "value": "25"
+          },
+          {
+            "title": "proteins",
+            "value": "5"
+          },
+          {
+            "title": "carbs",
+            "value": "60"
+          }
+        ]
+      },
+      {
+        "title": "Cookie",
+        "id": 4,
+        "description": "The words cookie or cracker became the words of choice to mean a hard, baked product. ... A biscuit is any of various hard or crisp dry baked product similar to the American English terms cracker or cookie, or a small quick bread made from dough that has been rolled out and cut or dropped from a spoon.",
+        "price": 2.0,
+        "priceUnit": "$",
+        "isHit": true,
+        "imageName": "Cookie.png",
+        "nutrition": [
+          {
+            "title": "kcal",
+            "value": "450"
+          },
+          {
+            "title": "grams",
+            "value": "450"
+          },
+          {
+            "title": "fats",
+            "value": "30"
+          },
+          {
+            "title": "proteins",
+            "value": "2"
+          },
+          {
+            "title": "carbs",
+            "value": "70"
+          }
+        ]
+      },
+      {
+        "title": "Dessert",
+        "id": 5,
+        "description": "A dessert is a type of food that is eaten after lunch or dinner, and sometimes after a light meal or snack. It is usually a sweet food, like ice cream, cookies, and cakes. In some countries, cheeses such as Brie cheese and fruit are served as dessert.",
+        "price": 9.5,
+        "priceUnit": "$",
+        "isHit": false,
+        "imageName": "Dessert.png",
+        "nutrition": [
+          {
+            "title": "kcal",
+            "value": "500"
+          },
+          {
+            "title": "grams",
+            "value": "300"
+          },
+          {
+            "title": "fats",
+            "value": "27"
+          },
+          {
+            "title": "proteins",
+            "value": "1"
+          },
+          {
+            "title": "carbs",
+            "value": "66"
+          }
+        ]
+      },
+      {
+        "title": "Indian Chutney",
+        "id": 6,
+        "description": "A chutney is a family of condiments or sauces in the cuisines of the Indian subcontinent. Chutneys may be realized in such forms as a tomato relish, a ground peanut garnish, yogurt or curd, cucumber, spicy coconut, spicy onion or mint dipping sauce.",
+        "price": 15.0,
+        "priceUnit": "$",
+        "isHit": true,
+        "imageName": "Indian-Chutney.png",
+        "nutrition": [
+          {
+            "title": "kcal",
+            "value": "300"
+          },
+          {
+            "title": "grams",
+            "value": "200"
+          },
+          {
+            "title": "fats",
+            "value": "15"
+          },
+          {
+            "title": "proteins",
+            "value": "6"
+          },
+          {
+            "title": "carbs",
+            "value": "44"
+          }
+        ]
+      },
+      {
+        "title": "Salad",
+        "id": 7,
+        "description": "A salad is a dish consisting of mixed pieces of food, typically with at least one raw ingredient. They are often dressed, and typically served at room temperature or chilled, though some can be served warm. Appetizer salads—light, smaller-portion salads served as the first course of the meal.",
+        "price": 20.0,
+        "priceUnit": "$",
+        "isHit": false,
+        "imageName": "Salad2.png",
+        "nutrition": [
+          {
+            "title": "kcal",
+            "value": "250"
+          },
+          {
+            "title": "grams",
+            "value": "250"
+          },
+          {
+            "title": "fats",
+            "value": "17"
+          },
+          {
+            "title": "proteins",
+            "value": "10"
+          },
+          {
+            "title": "carbs",
+            "value": "42"
+          }
+        ]
+      },
+      {
+        "title": "Soup",
+        "id": 8,
+        "description": "Soup is a primarily liquid food, generally served warm or hot (but may be cool or cold), that is made by combining ingredients of meat or vegetables with stock, milk, or water. Hot soups are additionally characterized by boiling solid ingredients in liquids in a pot until the flavors are extracted, forming a broth.",
+        "price": 17.0,
+        "priceUnit": "$",
+        "isHit": true,
+        "imageName": "Soup.png",
+        "nutrition": [
+          {
+            "title": "kcal",
+            "value": "230"
+          },
+          {
+            "title": "grams",
+            "value": "220"
+          },
+          {
+            "title": "fats",
+            "value": "12"
+          },
+          {
+            "title": "proteins",
+            "value": "20"
+          },
+          {
+            "title": "carbs",
+            "value": "40"
+          }
+        ]
+      }
+  ]
